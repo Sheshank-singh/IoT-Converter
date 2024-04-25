@@ -1,6 +1,6 @@
 document.getElementById("viewPdfButton").addEventListener("click", function() {
     // Replace the PDF URL with the URL of your PDF file hosted on Google Drive
-    var pdfUrl = "https://drive.google.com/file/d/1cWKEYxUevg_w6imwZ2cGUZuWWIQW1L57/view?usp=drivesdk";
+    var pdfUrl = "https://drive.google.com/drive/folders/1cTTbvwa7sxZ3zY4EnPHqM8jQPfYEimV1";
     
     // Open the PDF in a new tab/window
     window.open(pdfUrl, "_blank");
